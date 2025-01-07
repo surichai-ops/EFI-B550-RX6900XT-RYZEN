@@ -4,7 +4,7 @@
 
 ![Screenshot-02](./assets/screenshot-02.png)
 
-![Screenshot-01](./.github/assets/screenshot-01.png)
+![Screenshot-01](./assets/screenshot-01.png)
 
 ## Current Status
  - opencore 1.0.2
