@@ -2,7 +2,7 @@
 
 ## EFI-B550-RX6900XT
 
-![Screenshot-02](./.github/assets/screenshot-02.png)
+![Screenshot-02](./assets/screenshot-02.png)
 
 ![Screenshot-01](./.github/assets/screenshot-01.png)
 
